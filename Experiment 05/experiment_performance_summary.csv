@@ -1,0 +1,6 @@
+Metric,Value
+MAE (°C),1.7615
+RMSE (°C),2.2353
+MAPE (%),20.89
+Data Points,730
+Model Type,"ARIMA(1,1,1)"
